@@ -1,0 +1,23 @@
+{
+  "uuid": "4a0a8dac-9ebe-4f8f-893e-4f24c0807bc8",
+  "shortName": "5 O'Clock",
+  "longName": "5 O'Clock",
+  "companyName": "Gregoire Lejeune",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+  },
+  "resources": {
+    "media": [
+      {
+        "menuIcon":true, 
+        "type":"png", 
+        "name":"IMAGE_MENU_ICON", 
+        "file":"images/menu_icon_face.png"
+      }
+    ]
+  }
+}
